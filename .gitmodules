@@ -1,0 +1,6 @@
+[submodule "doc"]
+	path = doc
+	url = https://github.com/ZachDischner/DoxyDocs.git
+[submodule "ZD_Utils"]
+	path = ZD_Utils
+	url = git@github.com:ZachDischner/ZD-Utils.git
